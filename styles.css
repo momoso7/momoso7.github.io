@@ -10,9 +10,10 @@
 }
 
 p {
+  display:block;
   text-align: left;
   max-width: 800px;
-  margin: 0 auto;
+  margin: 30px auto;
   font: 15px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
 
