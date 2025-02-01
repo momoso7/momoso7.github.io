@@ -13,7 +13,7 @@ p {
   display: block;
   width: 400px;
   margin: 50px auto;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  font: 15px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
 
 h1 { 
@@ -37,7 +37,7 @@ h2 {
 
 body {
             font-family: Arial, sans-serif;
-            text-align: center;
+            text-align: left;
             margin: 50px;
             line-height: 1.6;
         }
